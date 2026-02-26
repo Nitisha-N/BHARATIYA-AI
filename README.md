@@ -98,7 +98,13 @@ This project aligns with the **AI for Learning & Developer Productivity** track 
 - Real-world educational challenges
 
 ---
+## ✨ Current Build Status
 
+- Documentation completed
+- Personalization logic finalized
+- AWS deployment in progress
+- Bedrock integration scheduled
+---
 ## 👥 Team
 
 **Team Name:** BharatiyaAI  
