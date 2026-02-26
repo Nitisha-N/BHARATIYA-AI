@@ -1,4 +1,4 @@
-# ✨ AI-Powered Learning Assistant
+# ✨ AI-Powered Learning Assistant : 🚀 Prototype Phase – AWS Integration in Progress
 ### * The requirements and design documents in this repository were generated using Kiro’s Spec → Design flow, as recommended by the hackathon guidelines.*
 ---
 ## AI for Bharat Hackathon – Student Track  
