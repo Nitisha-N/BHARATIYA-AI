@@ -91,11 +91,13 @@ Deployment and Bedrock invocation are currently in progress.
 
 ## 📊 Current Build Status
 
-- Documentation completed  
-- Personalization logic finalized  
-- UI scaffold implemented  
-- AWS deployment in progress  
-- Bedrock integration scheduled  
+## Roadmap
+
+Phase 1 – Core Adaptive Flow (Completed)
+Phase 2 – Weak Topic Intelligence Engine (In Progress)
+Phase 3 – Bedrock LLM Integration
+Phase 4 – Personality Modes (Coach / Strict / Friendly)
+Phase 5 – Performance Optimization & Cloud Deployment  
 
 ---
 
